@@ -46,7 +46,7 @@ Funcionalidades estão sujeitas a alterações e o código pode conter bugs.
 ### Execução
 Execute o arquivo principal para iniciar a aplicação:
 ```bash
-python app/main.py
+python app/models/inject.py
 ```
 
 ---
