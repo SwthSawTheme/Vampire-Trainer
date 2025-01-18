@@ -51,9 +51,7 @@ python app/models/inject.py
 
 ---
 
-## Imagem de Exemplo
-
-Insira aqui uma imagem mostrando o resultado da injeção de código:
+## Injeção in-game
 
 ![Exemplo de Resultado](./src/injecao.png)
 
